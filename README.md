@@ -1,9 +1,8 @@
-# THM-WriteUp-LogAnalysis
+# LogAnalysis
 
-## TryHackMe Log Analysis Lab  
-### Developed by Ramyar Daneshgar  
+By Ramyar Daneshgar
 
-This writeup details my technical approach and reasoning for solving challenges in the TryHackMe "Log Analysis" lab. The lab required using command-line tools (`grep`, `cut`, `awk`, `sort`, `uniq`), **CyberChef** for decoding and regex-based extraction, **Sigma** for creating YAML-based detection rules, and **YARA** for pattern matching to identify structured log anomalies. Below, I break down each solution, including the logic and context behind every step.
+The lab required using command-line tools (`grep`, `cut`, `awk`, `sort`, `uniq`), **CyberChef** for decoding and regex-based extraction, **Sigma** for creating YAML-based detection rules, and **YARA** for pattern matching to identify structured log anomalies. Below, I break down each solution, including the logic and context behind every step.
 
 ---
 
